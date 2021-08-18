@@ -18,3 +18,16 @@ The following asset does have a dimension of 16m x 16m in glTF plus a checkerboa
 ![](LAND_in_Gestaltor.jpg)
 
 * Download [1x1LAND.glb](Decentraland/1x1LAND.glb)  
+
+## Somnium Space
+In [Somnium Space](https://somniumspace.com/) it is possible to upload and download 3D models using glTF.  
+
+### Parcels
+3D models can be placed on a Parcel. A Parcel can be of size [S, M and XL](https://somniumspace.medium.com/everything-you-need-to-know-about-buying-land-parcel-in-somnium-space-4f66d18c1a73).  
+The following assets are the basement of each Parcel:
+
+![](Parcels_in_Gestaltor.jpg)
+
+* Download [ParcelS.glb](SomniumSpace/ParcelS.glb)  
+* Download [ParcelM.glb](SomniumSpace/ParcelM.glb)  
+* Download [ParcelXL.glb](SomniumSpace/ParcelXL.glb)  
