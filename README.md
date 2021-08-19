@@ -41,3 +41,13 @@ The following assets are the basement of each Parcel:
 * Download [ParcelS.glb](SomniumSpace/ParcelS.glb)  
 * Download [ParcelM.glb](SomniumSpace/ParcelM.glb)  
 * Download [ParcelXL.glb](SomniumSpace/ParcelXL.glb)  
+
+## Substrata
+In [Substrata](https://substrata.info/) it is possible to upload 3D models using glTF.  
+
+### Parcels
+3D models can be placed on a Parcel in Substrata. A Parcel does have a size of 20m x 20m:
+
+![](Substrata_parcels_in_Gestaltor.jpg)
+
+* Download [20x20m_Parcel.glb](20x20m_Parcel.glb)  
