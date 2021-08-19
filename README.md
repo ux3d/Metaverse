@@ -50,4 +50,4 @@ In [Substrata](https://substrata.info/) it is possible to upload 3D models using
 
 ![](Substrata_parcels_in_Gestaltor.jpg)
 
-* Download [20x20m_Parcel.glb](20x20m_Parcel.glb)  
+* Download [20x20m_Parcel.glb](Substrata/20x20m_Parcel.glb)  
