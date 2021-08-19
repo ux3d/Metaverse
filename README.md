@@ -8,6 +8,16 @@ glTF is the format of choice in the metaverse and [3D Commerce](https://www.khro
   
 Following assets do help to create content using Gestaltor for the following Metaverse platforms.
 
+## General
+
+In general, meters are also used as units in virtual space and the metaverse.  
+Following ruler does have a size of 0.1 x 2.0 x 0.1 meters, which does easily allow size comparisson.  
+In this scene, an avatar from [Ready Player Me](https://readyplayer.me/) and a chair from [wayfair](https://www.aboutwayfair.com/tech-blog/welcome-to-wayfairs-realtime-3d-model-api) are compared:  
+
+![](Ruler_in_Gestaltor.jpg)
+
+* Download [Ruler_2m.glb](General/Ruler_2m.glb)  
+
 ## Decentraland
 In [Decentraland](https://decentraland.org/) it is possible to add own 3D models using glTF.  
 
