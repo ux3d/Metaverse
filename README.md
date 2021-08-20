@@ -4,7 +4,8 @@
 [Gestaltor](https://gestaltor.io/) is the first visual [glTF](https://www.khronos.org/gltf/) editor. One of the main features is, that glTF is loaded and saved (and not imported and exported).  
 This is a big advantage, as any information stored in the glTF is not lost.  
   
-glTF is the format of choice in the metaverse and [3D Commerce](https://www.khronos.org/3dcommerce/) and we continously add new features to Gestaltor, to fulfill the demands from the community.  
+glTF is the 3D format of choice for [non-fungible tokens (NFT)](https://en.wikipedia.org/wiki/Non-fungible_token), in the [metaverse](https://en.wikipedia.org/wiki/Metaverse) and [3D Commerce](https://www.khronos.org/3dcommerce/).  
+We continously add new features to Gestaltor to fulfill the demands from the community and our customers.  
   
 Following assets do help to create content using Gestaltor for the following Metaverse platforms.
 
