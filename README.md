@@ -29,6 +29,14 @@ The following asset does have a dimension of 16m x 16m in glTF plus a checkerboa
 
 * Download [1x1LAND.glb](Decentraland/1x1LAND.glb)  
 
+## Hubs
+Using [spoke](https://hubs.mozilla.com/spoke) it is possible to upload and download 3D models to [Hubs](https://hubs.mozilla.com/) using glTF.  
+In spoke and Hubs, the virtual space is segmented in several 10m x 10m areas.
+
+![](Hubs_in_Gestaltor.jpg)
+
+* Download [10x10m_Area.glb](Hubs/10x10m_Area.glb)  
+
 ## Somnium Space
 In [Somnium Space](https://somniumspace.com/) it is possible to upload and download 3D models using glTF.  
 
