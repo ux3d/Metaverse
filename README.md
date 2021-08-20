@@ -1,18 +1,16 @@
 [![](glTF.png)](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0)
 
 # Gestaltor in the Metaverse
-[Gestaltor](https://gestaltor.io/) is the first visual [glTF](https://www.khronos.org/gltf/) editor. One of the main features is, that glTF is loaded and saved (and not imported and exported).  
-This is a big advantage, as any information stored in the glTF is not lost.  
+[Gestaltor](https://gestaltor.io/) is the first visual [glTF](https://www.khronos.org/gltf/) editor to directly modify `.gltf` and `.glb` files. One of the [main features](https://ux3d.io/gestaltor) of this editor is, that a glTF is loaded and saved. This means, that any information and configuration inside the glTF during editing is preserved.  
   
 glTF is the 3D format of choice for [non-fungible tokens (NFT)](https://en.wikipedia.org/wiki/Non-fungible_token), in the [metaverse](https://en.wikipedia.org/wiki/Metaverse) and [3D Commerce](https://www.khronos.org/3dcommerce/).  
-We continously add new features to Gestaltor to fulfill the demands from the community and our customers.  
   
-Following assets do help to create content using Gestaltor for the following Metaverse platforms.
+Following assets do help to create content using Gestaltor for the following metaverse platforms.
 
 ## General
 
-In general, meters are also used as units in virtual space and the metaverse.  
-Following ruler does have a size of 0.1 x 2.0 x 0.1 meters, which does easily allow size comparisson.  
+Like in the real world, meters are also used as units in virtual space and the metaverse.  
+Following ruler does have a size of 0.1 x 2.0 x 0.1 meters, which does easily allow size comparisson and adjustments.  
 In this scene, an avatar from [Ready Player Me](https://readyplayer.me/) and a chair from [wayfair](https://www.aboutwayfair.com/tech-blog/welcome-to-wayfairs-realtime-3d-model-api) are compared:  
 
 ![](Ruler_in_Gestaltor.jpg)
