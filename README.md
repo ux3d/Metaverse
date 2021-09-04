@@ -36,6 +36,14 @@ In spoke and Hubs, the virtual space is segmented in several 10m x 10m areas.
 
 * Download [10x10m_Area.glb](Hubs/10x10m_Area.glb)  
 
+## Oculus Home
+In [Oculus Home](https://creator.oculus.com/blog/introducing-oculus-home-user-created-spaces/) the navigation area is a 250m cube and the visible area a 1000m cube.  
+This asset includes a 250m x 250m floor plus visual hints for the navigation and visible area:
+
+![](Oculus_Home_in_Gestaltor.jpg)
+
+* Download [OculusHome.glb](OculusHome/OculusHome.glb)  
+
 ## Somnium Space
 In [Somnium Space](https://somniumspace.com/) it is possible to upload and download 3D models using glTF.  
 
