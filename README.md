@@ -17,6 +17,13 @@ In this scene, an avatar from [Ready Player Me](https://readyplayer.me/) and a c
 
 * Download [Ruler_2m.glb](General/Ruler_2m.glb)  
 
+In some cases, one does want to add a basic shadow to the scene. This is possible with a simple fake shadow.  
+In this scene, the [Boom Box](https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/BoomBox) and a cupboard from [wayfair](https://www.aboutwayfair.com/tech-blog/welcome-to-wayfairs-realtime-3d-model-api) are used. The shadow asset is arranged in such a way, that the Boom Box looks like it is positioned on the cupboard (screenshot taken from Gestaltor):  
+
+![](Shadow_screenshot.jpg)
+
+* Download [Shadow.glb](General/Shadow.glb)  
+
 ## Decentraland
 In [Decentraland](https://decentraland.org/) it is possible to add own 3D models using glTF.  
 
