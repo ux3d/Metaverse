@@ -24,6 +24,11 @@ In this scene, the [Boom Box](https://github.com/KhronosGroup/glTF-Sample-Models
 
 * Download [Shadow.glb](General/Shadow.glb)  
 
+## AltspaceVR
+In [AltspaceVR](https://altvr.com/) one can upload and use glb assets. All polygons in the scene should [not exceed](https://docs.microsoft.com/windows/mixed-reality/altspace-vr/world-building/importing-models) the 100000 limit.  
+
+The world units are in meters, so any provided glTF assets in meters can be used.
+
 ## Decentraland
 In [Decentraland](https://decentraland.org/) it is possible to add own 3D models using glTF.  
 
