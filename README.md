@@ -29,6 +29,12 @@ In [AltspaceVR](https://altvr.com/) one can upload and use glb assets. All polyg
 
 The world units are in meters, so any provided glTF assets in meters can be used.
 
+AltspaceVR is using in many cases only materials without textures. The following glTF contains several dielectric, rough materials based on this [color table](https://www.rapidtables.com/web/color/RGB_Color.html).
+
+![](AltspaceVR_in_Gestaltor.jpg)
+
+* Download [Colors.glb](AltspcaeVR/Colors.glb)  
+
 ## Decentraland
 In [Decentraland](https://decentraland.org/) it is possible to add own 3D models using glTF.  
 
