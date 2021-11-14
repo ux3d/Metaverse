@@ -33,7 +33,7 @@ AltspaceVR is using in many cases only materials without textures. The following
 
 ![](AltspaceVR_in_Gestaltor.jpg)
 
-* Download [Colors.glb](AltspcaeVR/Colors.glb)  
+* Download [Colors.glb](AltspaceVR/Colors.glb)  
 
 ## Decentraland
 In [Decentraland](https://decentraland.org/) it is possible to add own 3D models using glTF.  
