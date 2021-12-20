@@ -75,6 +75,14 @@ The following assets are the basement of each Parcel:
 * Download [ParcelM.glb](SomniumSpace/ParcelM.glb)  
 * Download [ParcelXL.glb](SomniumSpace/ParcelXL.glb)  
 
+## Spatial
+In [Spatial](https://spatial.io/) it is possible to upload both `.glTF` and `.glb` 3D assets.  
+However, they are using a different scaling system and it seems that 2m in other worlds is 1m in their world.
+
+![](Spatial_Ruler_in_Gestaltor.jpg)
+
+* Download [Ruler_Spatial_2m.glb](Spatial/Ruler_Spatial_2m.glb)  
+
 ## Substrata
 In [Substrata](https://substrata.info/) it is possible to upload 3D models using glTF.  
 
