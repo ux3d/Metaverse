@@ -1,15 +1,15 @@
 [![](glTF.png)](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0)
 
 # Gestaltor in the Metaverse
-[Gestaltor](https://gestaltor.io/) is the first visual [glTF](https://www.khronos.org/gltf/) editor to directly modify `.gltf` and `.glb` files. One of the [main features](https://ux3d.io/gestaltor) of this 3D editor and stager is, that a glTF is loaded and saved. This means, that any information and configuration inside the glTF during editing is preserved.  
+[Gestaltor](https://gestaltor.store/) is the first visual [glTF](https://www.khronos.org/gltf/) editor to directly modify `.gltf` and `.glb` files. One of the [main features](https://ux3d.io/gestaltor) of this 3D editor and stager is, that a glTF is loaded and saved. This means, that any information and configuration inside the glTF during editing is preserved.  
   
-glTF is the 3D format of choice for [non-fungible tokens (NFT)](https://en.wikipedia.org/wiki/Non-fungible_token), in the [Metaverse](https://www.mckinsey.com/business-functions/growth-marketing-and-sales/our-insights/value-creation-in-the-metaverse) and [3D Commerce](https://www.khronos.org/3dcommerce/). glTF 2.0 became an [ISO standard](https://www.iso.org/standard/83990.html) in July 2022.
+glTF is the 3D format of choice for the [Metaverse](https://www.mckinsey.com/business-functions/growth-marketing-and-sales/our-insights/value-creation-in-the-metaverse) and [3D Commerce](https://www.khronos.org/3dcommerce/). glTF 2.0 became an [ISO standard](https://www.iso.org/standard/83990.html) in July 2022.
   
-Following assets do help to create content using Gestaltor for the following metaverse platforms.
+Following assets do help to create content using Gestaltor for the following open Metaverse platforms.
 
 ## General
 
-Like in the real world, meters are also used as units in virtual space and the metaverse.  
+Like in the real world, meters are also used as units in virtual space and the Metaverse.  
 Following ruler does have a size of 0.1 x 2.0 x 0.1 meters, which does easily allow size comparisson and adjustments.  
 In this scene, an avatar from [Ready Player Me](https://readyplayer.me/) and a chair from [wayfair](https://www.aboutwayfair.com/tech-blog/welcome-to-wayfairs-realtime-3d-model-api) are compared:  
 
