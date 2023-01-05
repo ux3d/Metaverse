@@ -3,7 +3,7 @@
 # Gestaltor in the Metaverse
 [Gestaltor](https://gestaltor.store/) is the first visual [glTF](https://www.khronos.org/gltf/) editor to directly modify `.gltf` and `.glb` files. One of the [main features](https://ux3d.io/gestaltor) of this 3D editor and stager is, that a glTF is loaded and saved. This means, that any information and configuration inside the glTF during editing is preserved.  
   
-glTF is the 3D format of choice for the [Metaverse](https://www.mckinsey.com/business-functions/growth-marketing-and-sales/our-insights/value-creation-in-the-metaverse) and [3D Commerce](https://www.khronos.org/3dcommerce/). glTF 2.0 became an [ISO standard](https://www.iso.org/standard/83990.html) in July 2022.
+glTF is the 3D format of choice for the [Metaverse](https://www.mckinsey.com/business-functions/growth-marketing-and-sales/our-insights/value-creation-in-the-metaverse), [3D Commerce](https://www.khronos.org/3dcommerce/) and [simplifies the digital twin exchange](https://venturebeat.com/ai/10-digital-twin-trends-for-2023/). glTF 2.0 became an [ISO standard](https://www.iso.org/standard/83990.html) in July 2022.
   
 Following assets do help to create content using Gestaltor for the following open Metaverse platforms.
 
